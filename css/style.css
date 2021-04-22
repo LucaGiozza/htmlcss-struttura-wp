@@ -2,9 +2,11 @@
     
     padding: 0;
     box-sizing: border-box;
+    margin: auto;
 }
 body{
     padding: 60px;
+    margin: auto;
 }
 /* inizio header */
 .pink{
@@ -14,6 +16,9 @@ body{
     width: 890px;
 }
 /* inizio main */
+.main{
+    margin: auto;
+}
 .yellow{
     height:200px ;
     background-color:#E1D67A ;
